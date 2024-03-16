@@ -4,7 +4,7 @@ This project aims to analyze Black Friday sales data using Python. The dataset u
 
 ## Dataset
 
-The dataset used for this project i.e `black_friday_sales.csv`, contains the raw data for Black Friday sales.
+The dataset used for this project i.e `BlackFriday.csv`, contains the raw data for Black Friday sales.
 
 ## Requirements
 
